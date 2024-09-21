@@ -1,6 +1,7 @@
 # Credit_Risk_Modeling
 
 Ce projet consiste à modéliser le risque de crédit en utilisant des données du Lending Club.
+https://www.kaggle.com/datasets/swetashetye/lending-club-loan-data-imbalance-dataset
 
 ## Credit Risk Modeling - Preparation
 
